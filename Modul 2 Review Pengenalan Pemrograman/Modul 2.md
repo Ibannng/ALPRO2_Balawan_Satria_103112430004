@@ -43,7 +43,7 @@ func main() {
 }
 ```
 Hasil :
-![](Screenshot 2025-03-05 232603.png)
+![](Output/Screenshot 2025-03-05 232603.png)
 Deskripsi :
 - **Mendeklarasikan variabel**  
     Variabel `satu`, `dua`, `tiga`, dan `temp` bertipe string.
